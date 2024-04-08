@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Sisu",
+        "edad": "2",
+        "tipo": "Shih Tzu",
+        "color": "Blanco y cafe",
+        "enfermedad": "Flojera"
+    },
+    {
+        "nombre": "nombre",
+        "edad": "edad",
+        "tipo": "tipo",
+        "color": "color",
+        "enfermedad": "enfermedad"
+    },
+    {
+        "nombre": "nombre",
+        "edad": "edad",
+        "tipo": "tipo",
+        "color": "color",
+        "enfermedad": "enfermedad"
+    }
+]
